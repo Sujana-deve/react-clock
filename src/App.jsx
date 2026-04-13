@@ -50,6 +50,7 @@ export default function App() {
 
   return (
     <div style={styles.root}>
+    <h1>Made by sujana</h1>
       <style>{css}</style>
 
       {/* floating particles */}
